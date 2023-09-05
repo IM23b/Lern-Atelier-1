@@ -14,10 +14,10 @@ To-Do-Liste --> ( - [] )
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Mit der Moduleinteilung fertig werden. Modul 319 --> PAPUhr 60 Min
+- [ ] Mit der Moduleinteilung fertig werden. Modul 319 
 - [ ] Modul 431 60 min 
 - [ ] Lernjournal weiterführen 15min
-- [ ] Markdown 15min
+      
   
   
   
@@ -29,10 +29,9 @@ To-Do-Liste --> ( - [] )
 
 
 
-- [ ] Mit der Moduleinteilung fertig werden. Modul 319 --> PAPUhr
+- [x] Mit der Moduleinteilung fertig werden. Modul 319 --> PAPUhr
 - [X] Modul 431    135 min --> 3 Schulstunden
-- [X] Lernjournal weiterführen
-- [X] Markdown
+- [ ] Lernjournal weiterführen
 29.08.23
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 Ich komme algemein sehr langsam voran, weil ich sehr genau arbeite. Dafür erreiche ich bei den Moodle-Tests die max. Punktzahl. Ich glaube ich war aber ein bisschen schneller als letztes mal.
