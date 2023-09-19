@@ -2,7 +2,7 @@
 
 Robert Tröger
 
-29.08.23
+19.09.23
 
 ## Leit-Satz
 
@@ -15,7 +15,8 @@ To-Do-Liste --> ( - [] )
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] Mit der Moduleinteilung fertig werden. Modul 319 
-- [ ] Modul 431 60 min 
+- [ ] Modul 431 1707 Auftragsanalyse
+- [ ] Modul 319 
 - [ ] Lernjournal weiterführen 15min
       
   
@@ -29,7 +30,7 @@ To-Do-Liste --> ( - [] )
 
 
 
-- [x] Mit der Moduleinteilung fertig werden. Modul 319 --> PAPUhr
+- [x] Mit der Moduleinteilung fertig werden.
 - [X] Modul 431    135 min --> 3 Schulstunden
 - [ ] Lernjournal weiterführen
 29.08.23
